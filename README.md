@@ -29,3 +29,6 @@ Este projeto consiste em um dispositivo eletrônico, baseado no microcontrolador
     * Quando a nota desejada for selecionada, pressione o "Botão de Inferência" e siga as instruções sonoras para escanear a frente e o verso da cédula.
 5.  **Retornar ao Modo de Inferência**:
     * Pressione e segure o "Botão de Estado" novamente por 2 segundos.
+
+
+Video demonstração: https://www.youtube.com/watch?v=s8Q0W3OB4vk&t=12s
